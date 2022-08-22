@@ -5,7 +5,7 @@
 
 {"spider":"https://gitea.com/ichenczh/tvbox/raw/branch/main/jar/0818w.jar",
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9wYW4uMDVrci5jb20vZG93bi5waHAvZjc3MWRhZDY5OGM4Y2NjM2EwMmIwNDUyOTk0OTllMzAudHh0JjgzMDMxMA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2xiLnl5MTExLmNuL0EvMTY2MTI4NjQ4MS50eHQ="]}]}],
 "wallpaper":"https://bing.img.run/1366x768.php",
 "sites":[
 {"key":"csp_Kunyu77","name":"酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
