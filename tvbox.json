@@ -33,7 +33,7 @@
 {"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"360〔SP〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Dy555","name":"555影院〔SP〕","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_SP293","name":"293视频〔SP〕","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://pan.05kr.com/down.php/1b0fae7c99b09c6f66d6c39b114580a9.jpg"},
+{"key": "csp_SP293","name":"293视频〔SP〕","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://pan.05kr.com/down.php/f15a9dcae4368613b9b6529db1f39615.jar"},
 {"key":"csp_Tkys","name":"天空影视〔SP〕","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_88kanqiu","name":"88看球〔XP〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/ichenczh/tvbox/raw/branch/main/XP/88kanqiu.json"},
 {"key": "csp_xpath_jrskan","name": "JRKAN直播〔XPF〕","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/ichenczh/tvbox/raw/branch/main/XP/jrskan.json"},
