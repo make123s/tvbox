@@ -3,7 +3,7 @@
 
 //{"key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","searchable":1,"quickSearch":1,"filterable":0,"jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕"] },
 
-{"spider":"https://gh.xiu2.xyz/https://github.com/make123s/tvbox/blob/main/jar/0818w.jar",
+{"spider":"https://pan.05kr.com/down.php/7e586873f38432ee9a3534f0d19a9753.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2xiLnl5MTExLmNuL0EvMTY2MTI4NjQ4MS50eHQ="]}]}],
 "wallpaper":"https://bing.img.run/1366x768.php",
